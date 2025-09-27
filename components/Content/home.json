@@ -87,12 +87,12 @@
   },
   "faq": [
     {
-      "FAQ": "How much does it cost to rent a portable toilet in [loaction]?",
+      "FAQ": "How much does it cost to rent a portable toilet in [location]?",
       "Answer": "Portable toilet rental prices in [location] depend on unit type, rental period, and location. Contact us for a free quote with no hidden fees."
     },
     {
-      "FAQ": "What types of portable toilets are available in [location]?",
-      "Answer": "We offer standard units, ADA-compliant toilets, and luxury restroom trailers in [location], ideal for various events and sites."
+      "FAQ": "What types of portable toilets are available?",
+      "Answer": "We offer standard units, ADA-compliant toilets, and luxury restroom trailers, ideal for various events and sites."
     },
     {
       "FAQ": "How soon can I get a portable toilet delivered in [location]?",
@@ -107,12 +107,12 @@
       "Answer": "Permits may be required for public events in [location]. We can assist in determining local requirements."
     },
     {
-      "FAQ": "How long can I keep a portable toilet rental in [location]?",
+      "FAQ": "How long can I keep a portable toilet rental?",
       "Answer": "Our standard rental period is flexible to meet your needs. Contact us for details and customized rental terms."
     },
     {
-      "FAQ": "What is the best portable toilet solution for a wedding in [location]?",
-      "Answer": "Luxury restroom trailers are ideal for weddings in [location], offering comfort and style for guests."
+      "FAQ": "What is the best portable toilet solution for a wedding?",
+      "Answer": "Luxury restroom trailers are ideal for weddings, offering comfort and style for guests."
     },
     {
       "FAQ": "Can I schedule an early pickup for my portable toilets in [location]?",
@@ -127,8 +127,8 @@
       "Answer": "Portable toilet rentals are great for festivals, weddings, sports events, construction sites, and any gathering."
     },
     {
-      "FAQ": "Are ADA-compliant portable toilets available in [location]?",
-      "Answer": "Yes! We offer ADA-compliant units in [location], ensuring accessibility for all guests and workers."
+      "FAQ": "Are ADA-compliant portable toilets available?",
+      "Answer": "Yes! We offer ADA-compliant units, ensuring accessibility for all guests and workers."
     },
     {
       "FAQ": "What happens if I need the portable toilets longer in [location]?",
